@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile_banner.png" alt="Nand Kumar Tech Banner" width="100%"/>
+</p>
+
 # Hi there, I'm Nand Kumar 👋
 
 I am a multi-disciplinary **Software Engineer** based in Kanpur, India, specializing in **Artificial Intelligence, Data Science, Backend Web Development, and Zoho Automation**. I design and build highly optimized web applications, predictive machine learning pipelines, and custom enterprise automations.
