@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="" alt="Nand Kumar Tech Banner" width="100%"/>
-</p>
+</p> -->
 
 # Hi there, I'm Nand Kumar 👋
 
