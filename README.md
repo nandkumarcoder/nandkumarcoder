@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.png" alt="Nand Kumar Tech Banner" width="100%"/>
+  <img src="" alt="Nand Kumar Tech Banner" width="100%"/>
 </p>
 
 # Hi there, I'm Nand Kumar 👋
