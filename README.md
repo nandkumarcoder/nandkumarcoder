@@ -22,7 +22,7 @@ I am a multi-disciplinary **Software Engineer** based in Kanpur, India, speciali
 | :--- | :--- |
 | **Languages** | Python, SQL, JavaScript (ES6+), Deluge (Zoho), C++ |
 | **AI / Data Science** | TensorFlow, Keras, Pandas, NumPy, Scikit-Learn, Matplotlib |
-| **Web Development** | Django, Django Rest Framework, HTML5, CSS3, REST APIs |
+| **Web Development** | Rest Framework, HTML5, CSS3, REST APIs |
 | **Zoho Ecosystem** | Zoho Creator, Zoho CRM, Zoho Deluge, Zoho Flow |
 | **Tools & Platforms** | Git, GitHub, VS Code, Windows Administration |
 
@@ -41,13 +41,6 @@ I am a multi-disciplinary **Software Engineer** based in Kanpur, India, speciali
 
 ---
 
-### 📊 GitHub Dashboard Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandkumarcoder&show_icons=true&theme=tokyonight&hide_border=true" alt="Nand's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandkumarcoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
-</p>
-
----
 
 ### 📬 Let's Connect!
 - **Email**: [nandkumarcoder@gmail.com](mailto:nandkumarcoder@gmail.com)
