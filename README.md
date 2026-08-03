@@ -30,7 +30,7 @@ I am a multi-disciplinary **Software Engineer** based in Kanpur, India, speciali
 
 ### 📂 Featured Repositories
 
-*   🎨 **[nand-kumar-portfolio](https://github.com/nandkumarcoder/nand-kumar-portfolio)**  
+*   🎨 **[nand-kumar-portfolio](https://nandkumarcoder.github.io/nand-kumar-portfolio/)**  
     My personal portfolio website featuring a custom canvas constellation grid, smooth hover animation logic, and an interactive AI chatbot helper.
 *   📊 **[neural-sales-forecaster](https://github.com/nandkumarcoder/neural-sales-forecaster)**  
     An LSTM recurrent neural network time-series forecaster that predicts daily retail sales patterns with 94.9% accuracy.
