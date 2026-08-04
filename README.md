@@ -1,48 +1,125 @@
-<!-- <p align="center">
-  <img src="" alt="Nand Kumar Tech Banner" width="100%"/>
-</p> -->
+<div align="center">
 
-# Hi there, I'm Nand Kumar 👋
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nand+Kumar+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Zoho+Automation+Specialist;Backend+%26+ML+Developer" alt="Typing SVG" />
 
-I am a multi-disciplinary **Software Engineer** based in Kanpur, India, specializing in **Artificial Intelligence, Data Science, Backend Web Development, and Zoho Automation**. I design and build highly optimized web applications, predictive machine learning pipelines, and custom enterprise automations.
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=nandkumarcoder&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/nandkumarcoder?label=Followers&style=for-the-badge&color=6366F1)](https://github.com/nandkumarcoder)
 
-### 🚀 What I Do
-- 🤖 **AI & Data Science**: Building time-series prediction models, deep neural networks (LSTMs, CNNs), and natural language processors.
-- 🐍 **Backend Development**: Creating robust, secure REST APIs and web servers using **Django** and **Django Rest Framework (DRF)**.
-- ☁️ **Zoho Development**: Building customized databases in **Zoho Creator** and developing automated CRM/Flow triggers using **Deluge Scripting**.
-- 💻 **Frontend Interactivity**: Developing clean, fast single-page applications using modern Vanilla JavaScript, CSS variables, and glassmorphism architectures.
+</div>
 
 ---
 
-### 🛠️ Technology Stack & Skills
+### 🧑‍💻 About Me
 
-| Category | Technologies |
+I'm a multi-disciplinary **Software Engineer** based in Kanpur, India, specializing in **Artificial Intelligence, Data Science, Backend Web Development, and Zoho Automation**. I design and build highly optimized web applications, predictive machine learning pipelines, and custom enterprise automations.
+
+<br/>
+
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI & Data Science**
+Building time-series prediction models, deep neural networks (LSTMs, CNNs), and natural language processors.
+
+</td>
+<td width="50%" valign="top">
+
+**🐍 Backend Development**
+Creating robust, secure REST APIs and web servers using **Django** and **Django Rest Framework (DRF)**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**☁️ Zoho Development**
+Building customized databases in **Zoho Creator** and developing automated CRM/Flow triggers using **Deluge Scripting**.
+
+</td>
+<td width="50%" valign="top">
+
+**💻 Frontend Interactivity**
+Developing clean, fast single-page applications using modern Vanilla JavaScript, CSS variables, and glassmorphism architectures.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Technology Stack & Skills
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Deluge](https://img.shields.io/badge/Deluge-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI / Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Web Development**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Zoho Ecosystem**
+
+![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![Zoho Flow](https://img.shields.io/badge/Zoho%20Flow-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📂 Featured Repositories
+
+| Repository | Description |
 | :--- | :--- |
-| **Languages** | Python, SQL, JavaScript (ES6+), Deluge (Zoho), C++ |
-| **AI / Data Science** | TensorFlow, Keras, Pandas, NumPy, Scikit-Learn, Matplotlib |
-| **Web Development** | Rest Framework, HTML5, CSS3, REST APIs |
-| **Zoho Ecosystem** | Zoho Creator, Zoho CRM, Zoho Deluge, Zoho Flow |
-| **Tools & Platforms** | Git, GitHub, VS Code, Windows Administration |
+| 🎨 **[nand-kumar-portfolio](https://nandkumarcoder.github.io/nand-kumar-portfolio/)** | Personal portfolio site featuring a custom canvas constellation grid, smooth hover animation logic, and an interactive AI chatbot helper. |
+| 📊 **[neural-sales-forecaster](https://github.com/nandkumarcoder/neural-sales-forecaster)** | LSTM recurrent neural network time-series forecaster predicting daily retail sales patterns with 94.9% accuracy. |
+| 📋 **[omnitask-kanban-board](https://github.com/nandkumarcoder/omnitask-kanban-board)** | Full-stack project board application with a Django/DRF API backend and a responsive drag-and-drop frontend dashboard. |
+| ⚡ **[custom-crm-leads-sync](https://github.com/nandkumarcoder/custom-crm-leads-sync)** | Collection of optimized Zoho Deluge scripts for advanced Creator form validation and CRM email lead parsing workflows. |
 
----
+<br/>
 
-### 📂 Featured Repositories
+## 📬 Let's Connect!
 
-*   🎨 **[nand-kumar-portfolio](https://nandkumarcoder.github.io/nand-kumar-portfolio/)**  
-    My personal portfolio website featuring a custom canvas constellation grid, smooth hover animation logic, and an interactive AI chatbot helper.
-*   📊 **[neural-sales-forecaster](https://github.com/nandkumarcoder/neural-sales-forecaster)**  
-    An LSTM recurrent neural network time-series forecaster that predicts daily retail sales patterns with 94.9% accuracy.
-*   📋 **[omnitask-kanban-board](https://github.com/nandkumarcoder/omnitask-kanban-board)**  
-    A full-stack project board application with a Django/DRF API backend and a responsive drag-and-drop frontend dashboard.
-*   ⚡ **[custom-crm-leads-sync](https://github.com/nandkumarcoder/custom-crm-leads-sync)**  
-    A collection of optimized Zoho Deluge scripts showing advanced Creator form validation and CRM email lead parsing workflows.
+<div align="center">
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandkumarcoder@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nand-kumar-943jf/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandkumarcoder)
 
+</div>
 
-### 📬 Let's Connect!
-- **Email**: [nandkumarcoder@gmail.com](mailto:nandkumarcoder@gmail.com)
-- **LinkedIn**: [Nand Kumar](https://www.linkedin.com/in/nand-kumar-943jf/)
-- **GitHub**: [@nandkumarcoder](https://github.com/nandkumarcoder)
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
+</div>
