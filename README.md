@@ -29,8 +29,8 @@ Building time-series prediction models, deep neural networks (LSTMs, CNNs), and 
 </td>
 <td width="50%" valign="top">
 
-**🐍 Backend Development**
-Creating robust, secure REST APIs and web servers using **Django** and **Django Rest Framework (DRF)**.
+**🟢 Backend Development**
+Creating robust, secure REST APIs and web servers using **Node.js** and modern JavaScript backend frameworks.
 
 </td>
 </tr>
@@ -75,8 +75,8 @@ Developing clean, fast single-page applications using modern Vanilla JavaScript,
 
 **Web Development**
 
-
-![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -85,6 +85,7 @@ Developing clean, fast single-page applications using modern Vanilla JavaScript,
 ![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 ![Zoho Flow](https://img.shields.io/badge/Zoho%20Flow-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![Zoho Catalyst](https://img.shields.io/badge/Zoho%20Catalyst-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 
 **Tools & Platforms**
 
@@ -103,7 +104,7 @@ Developing clean, fast single-page applications using modern Vanilla JavaScript,
 | :--- | :--- |
 | 🎨 **[nand-kumar-portfolio](https://nandkumarcoder.github.io/nand-kumar-portfolio/)** | Personal portfolio site featuring a custom canvas constellation grid, smooth hover animation logic, and an interactive AI chatbot helper. |
 | 📊 **[neural-sales-forecaster](https://github.com/nandkumarcoder/neural-sales-forecaster)** | LSTM recurrent neural network time-series forecaster predicting daily retail sales patterns with 94.9% accuracy. |
-| 📋 **[omnitask-kanban-board](https://github.com/nandkumarcoder/omnitask-kanban-board)** | Full-stack project board application with a Django/DRF API backend and a responsive drag-and-drop frontend dashboard. |
+| 📋 **[omnitask-kanban-board](https://github.com/nandkumarcoder/omnitask-kanban-board)** | Full-stack project board application with a Node.js backend API and a responsive drag-and-drop frontend dashboard. |
 | ⚡ **[custom-crm-leads-sync](https://github.com/nandkumarcoder/custom-crm-leads-sync)** | Collection of optimized Zoho Deluge scripts for advanced Creator form validation and CRM email lead parsing workflows. |
 
 <br/>
