@@ -106,7 +106,6 @@ Developing clean, fast single-page applications using modern Vanilla JavaScript,
 | 🏋️ **[spark-fitness](https://github.com/nandkumarcoder/spark-fitness)** | [Live App](https://nandkumarcoder.github.io/spark-fitness/#programs) | Dynamic, high-energy responsive fitness and workout program web platform with interactive workout schedule navigation. |
 | 💧 **[AquaCast-Water-app](https://github.com/nandkumarcoder/AquaCast-Water-app)** | [Live App](https://nandkumarcoder.github.io/AquaCast-Water-app/) | Intelligent water monitoring and forecasting dashboard designed to track precipitation levels and hydrological metrics. |
 | 📊 **[neural-sales-forecaster](https://github.com/nandkumarcoder/neural-sales-forecaster)** | [Repository](https://github.com/nandkumarcoder/neural-sales-forecaster) | LSTM recurrent neural network time-series forecaster predicting daily retail sales patterns with 94.9% accuracy. |
-| 📋 **[omnitask-kanban-board](https://github.com/nandkumarcoder/omnitask-kanban-board)** | [Repository](https://github.com/nandkumarcoder/omnitask-kanban-board) | Full-stack project board application with a backend REST API and a responsive drag-and-drop frontend dashboard. |
 | ⚡ **[custom-crm-leads-sync](https://github.com/nandkumarcoder/custom-crm-leads-sync)** | [Repository](https://github.com/nandkumarcoder/custom-crm-leads-sync) | Collection of optimized Zoho Deluge scripts for advanced Creator form validation and CRM email lead parsing workflows. |
 
 <br/>
